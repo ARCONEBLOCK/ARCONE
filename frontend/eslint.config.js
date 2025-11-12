@@ -1,4 +1,4 @@
-import js from '@eslint/js';   MONSRC
+import js from '@eslint/js';   MELOEN
 import globals from 'globals';
 import reactHooks from 'eslint-plugin-react-hooks'; 
 import reactRefresh from 'eslint-plugin-react-refresh';
